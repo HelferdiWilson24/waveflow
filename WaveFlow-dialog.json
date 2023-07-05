@@ -1,0 +1,1223 @@
+{
+  "intents": [
+    {
+      "intent": "Arah_Arus",
+      "examples": [
+        {
+          "text": "ada orang hanyut"
+        },
+        {
+          "text": "arah arus"
+        },
+        {
+          "text": "hanyut"
+        },
+        {
+          "text": "kebawa arus"
+        },
+        {
+          "text": "sendal saya kebawa arus"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Kuat_Arus",
+      "examples": [
+        {
+          "text": "besar arus laut"
+        },
+        {
+          "text": "kuat arus"
+        },
+        {
+          "text": "kuat arus laut"
+        },
+        {
+          "text": "saya ingin mengetahui besar arus laut"
+        },
+        {
+          "text": "seberapa besar arus laut sekarang?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang11",
+      "examples": [
+        {
+          "text": "air laut pukul 11"
+        },
+        {
+          "text": "air laut pukul 11:00"
+        },
+        {
+          "text": "air laut pukul 11:30"
+        },
+        {
+          "text": "air laut pukul 11 siang"
+        },
+        {
+          "text": "air laut pukul 12"
+        },
+        {
+          "text": "air laut pukul 12:00"
+        },
+        {
+          "text": "air laut pukul 12:30"
+        },
+        {
+          "text": "air laut pukul 12 siang"
+        },
+        {
+          "text": "kapan pasang tertinggi?"
+        },
+        {
+          "text": "keadaan air pada pukul 11"
+        },
+        {
+          "text": "pasang terdalam pukul berapa?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang13",
+      "examples": [
+        {
+          "text": "air laut pukul 01:00 siang"
+        },
+        {
+          "text": "air laut pukul 01:30 siang"
+        },
+        {
+          "text": "air laut pukul 02:00 siang"
+        },
+        {
+          "text": "air laut pukul 02:30 siang"
+        },
+        {
+          "text": "air laut pukul 13"
+        },
+        {
+          "text": "air laut pukul 13:00"
+        },
+        {
+          "text": "air laut pukul 13:30"
+        },
+        {
+          "text": "air laut pukul 14"
+        },
+        {
+          "text": "air laut pukul 14:00"
+        },
+        {
+          "text": "air laut pukul 14:30"
+        },
+        {
+          "text": "air laut pukul 1 siang"
+        },
+        {
+          "text": "air laut pukul 2 siang"
+        },
+        {
+          "text": "keadaan air pada pukul 13"
+        },
+        {
+          "text": "status air laut pada pukul 2 siang"
+        },
+        {
+          "text": "status air laut pukul 1 siang"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang15",
+      "examples": [
+        {
+          "text": "air laut pukl 4 sore"
+        },
+        {
+          "text": "air laut pukul 03:30 siang"
+        },
+        {
+          "text": "air laut pukul 04:00 siang"
+        },
+        {
+          "text": "air laut pukul 04:30 siang"
+        },
+        {
+          "text": "air laut pukul 15"
+        },
+        {
+          "text": "air laut pukul 15:00"
+        },
+        {
+          "text": "air laut pukul 15:30"
+        },
+        {
+          "text": "air laut pukul 16"
+        },
+        {
+          "text": "air laut pukul 16:00"
+        },
+        {
+          "text": "air laut pukul 16:30"
+        },
+        {
+          "text": "air laut pukul 3 siang"
+        },
+        {
+          "text": "air laut pukul 3 sore"
+        },
+        {
+          "text": "air laut pukul 4 siang"
+        },
+        {
+          "text": "ir laut pukul 03:00 siang"
+        },
+        {
+          "text": "keadaan air pada pukul 15"
+        },
+        {
+          "text": "status air laut pukul 4 siang"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang17",
+      "examples": [
+        {
+          "text": "air laut pukul 17"
+        },
+        {
+          "text": "air laut pukul 17:00"
+        },
+        {
+          "text": "air laut pukul 17:30"
+        },
+        {
+          "text": "air laut pukul 18"
+        },
+        {
+          "text": "air laut pukul 18:00"
+        },
+        {
+          "text": "air laut pukul 18:30"
+        },
+        {
+          "text": "air laut pukul 5 malam"
+        },
+        {
+          "text": "air laut pukul 5 siang"
+        },
+        {
+          "text": "air laut pukul 5 sore"
+        },
+        {
+          "text": "air laut pukul 6 malam"
+        },
+        {
+          "text": "air laut pukul 6 siang"
+        },
+        {
+          "text": "air laut pukul 6 sore"
+        },
+        {
+          "text": "Keadaan air pada pukul 17"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang19",
+      "examples": [
+        {
+          "text": "air laut pukul 07:00 malam"
+        },
+        {
+          "text": "air laut pukul 07:30 malam"
+        },
+        {
+          "text": "air laut pukul 08:00 malam"
+        },
+        {
+          "text": "air laut pukul 08:30 malam"
+        },
+        {
+          "text": "air laut pukul 19"
+        },
+        {
+          "text": "air laut pukul 19:00"
+        },
+        {
+          "text": "air laut pukul 19:30"
+        },
+        {
+          "text": "air laut pukul 20"
+        },
+        {
+          "text": "air laut pukul 20:00"
+        },
+        {
+          "text": "air laut pukul 20:30"
+        },
+        {
+          "text": "air laut pukul 7 malam"
+        },
+        {
+          "text": "air laut pukul 8 malam"
+        },
+        {
+          "text": "keadaan air pada pukul 19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang5",
+      "examples": [
+        {
+          "text": "jadwal pasang pukul 5"
+        },
+        {
+          "text": "kapanair akan pasang?"
+        },
+        {
+          "text": "kapan air laut pasang?"
+        },
+        {
+          "text": "kapan air pasang"
+        },
+        {
+          "text": "status air laut pada pukul 5"
+        },
+        {
+          "text": "status air laut pukul 05:00"
+        },
+        {
+          "text": "status air laut pukul 05:30"
+        },
+        {
+          "text": "status air laut pukul 06:00"
+        },
+        {
+          "text": "status air laut pukul 06:30"
+        },
+        {
+          "text": "status air laut pukul 5"
+        },
+        {
+          "text": "status air laut pukul 5 pagi"
+        },
+        {
+          "text": "status air laut pukul 6"
+        },
+        {
+          "text": "status air laut pukul 6 pagi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang7",
+      "examples": [
+        {
+          "text": "air laut pukul 07:00"
+        },
+        {
+          "text": "air laut pukul 07:30"
+        },
+        {
+          "text": "air laut pukul 08:00"
+        },
+        {
+          "text": "air laut pukul 08:30"
+        },
+        {
+          "text": "air laut pukul 7"
+        },
+        {
+          "text": "air laut pukul 8"
+        },
+        {
+          "text": "air laut pukul 8 pagi"
+        },
+        {
+          "text": "aur laut pukul 7 pagi"
+        },
+        {
+          "text": "keadaan air lau pada pukul 7"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang9",
+      "examples": [
+        {
+          "text": "air laut pukul 09:00"
+        },
+        {
+          "text": "air laut pukul 09:30"
+        },
+        {
+          "text": "air laut pukul 10"
+        },
+        {
+          "text": "air laut pukul 10:00"
+        },
+        {
+          "text": "air laut pukul 10:30"
+        },
+        {
+          "text": "air laut pukul 10 pagi"
+        },
+        {
+          "text": "air laut pukul 10 siang"
+        },
+        {
+          "text": "air laut pukul 9"
+        },
+        {
+          "text": "air laut pukul 9 pagi"
+        },
+        {
+          "text": "keadaan air pada pukul 9"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Pasang_Surut",
+      "examples": [
+        {
+          "text": "Jadwal Pasang Surut"
+        },
+        {
+          "text": "jadwal pasang surut hari ini"
+        },
+        {
+          "text": "jadwal pasang surut kemarin"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Surut1",
+      "examples": [
+        {
+          "text": "keadaan air pada pukul 1"
+        },
+        {
+          "text": "status air laut pada pukul 2"
+        },
+        {
+          "text": "status air laut pukul 01:00"
+        },
+        {
+          "text": "status air laut pukul 01:30"
+        },
+        {
+          "text": "status air laut pukul 02:00"
+        },
+        {
+          "text": "status air laut pukul 02:30"
+        },
+        {
+          "text": "status air laut pukul 1 pagi"
+        },
+        {
+          "text": "status air laut pukul 2 pagi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Surut21",
+      "examples": [
+        {
+          "text": "air laut pukul 09:00 malam"
+        },
+        {
+          "text": "air laut pukul 09:30 malam"
+        },
+        {
+          "text": "air laut pukul 10:00 malam"
+        },
+        {
+          "text": "air laut pukul 10:30 malam"
+        },
+        {
+          "text": "air laut pukul 10 malam"
+        },
+        {
+          "text": "air laut pukul 21"
+        },
+        {
+          "text": "air laut pukul 21:00"
+        },
+        {
+          "text": "air laut pukul 21:30"
+        },
+        {
+          "text": "air laut pukul 22"
+        },
+        {
+          "text": "air laut pukul 22:00"
+        },
+        {
+          "text": "air laut pukul 22:30"
+        },
+        {
+          "text": "air laut pukul 9 malam"
+        },
+        {
+          "text": "kapan air akan surut?"
+        },
+        {
+          "text": "kapan air mulai surut?"
+        },
+        {
+          "text": "kapan terjadi surut air laut"
+        },
+        {
+          "text": "keadaan air pada pukul 21"
+        },
+        {
+          "text": "ntuk surut air laut kapan terjadi/"
+        },
+        {
+          "text": "surut"
+        },
+        {
+          "text": "untuk surut air laut kapan terjadi?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Surut23",
+      "examples": [
+        {
+          "text": "air laut pukul 00"
+        },
+        {
+          "text": "air laut pukul 00:00"
+        },
+        {
+          "text": "air laut pukul 00:30"
+        },
+        {
+          "text": "air laut pukul 11:00 malam"
+        },
+        {
+          "text": "air laut pukul 11:30 malam"
+        },
+        {
+          "text": "air laut pukul 11 malam"
+        },
+        {
+          "text": "air laut pukul 12:00 malam"
+        },
+        {
+          "text": "air laut pukul 12:30 malam"
+        },
+        {
+          "text": "air laut pukul 12 malam"
+        },
+        {
+          "text": "air laut pukul 23"
+        },
+        {
+          "text": "air laut pukul 23:00"
+        },
+        {
+          "text": "air laut pukul 23:30"
+        },
+        {
+          "text": "air laut tengah malam"
+        },
+        {
+          "text": "Keadaan air pada pukul 23"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Surut3",
+      "examples": [
+        {
+          "text": "keadaan air pada pukul 3"
+        },
+        {
+          "text": "status air laut pukul 03:00"
+        },
+        {
+          "text": "status air laut pukul 03:30"
+        },
+        {
+          "text": "status air laut pukul 04:00"
+        },
+        {
+          "text": "status air laut pukul 04:30"
+        },
+        {
+          "text": "status air laut pukul 3 pagi"
+        },
+        {
+          "text": "status air laut pukul 4"
+        },
+        {
+          "text": "status air pukul 4 pagi"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "airline",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "AA",
+          "synonyms": [
+            "American Airlines",
+            "American Eagle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "DL",
+          "synonyms": [
+            "Delta"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "NK",
+          "synonyms": [
+            "Spirit"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "UA",
+          "synonyms": [
+            "United",
+            "United Airlines"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "VS",
+          "synonyms": [
+            "Virgin",
+            "Virgin Atlantic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "WN",
+          "synonyms": [
+            "Southwest"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "airport",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ATL",
+          "synonyms": [
+            "Atlanta",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "AUS",
+          "synonyms": [
+            "Austin",
+            "Austin Bergstrom"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "DAL",
+          "synonyms": [
+            "Dallas Love Field",
+            "Love Field"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "DFW",
+          "synonyms": [
+            "Dallas Fort Worth",
+            "DFW"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "LAX",
+          "synonyms": [
+            "LAX",
+            "Los Angeles"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "skill": {
+      "counts": {
+        "intents": 15,
+        "entities": 2,
+        "dialog_nodes": 17
+      }
+    },
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.appdomain.cloud/api/v1/web/your-url-here.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Maaf, saya tidak mengerti dengan pertanyaan anda, silahkan diulangi..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1688400720023",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Pasang5",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "05:00 > 75 cm > Pasang"
+              },
+              {
+                "text": "05:00 > 73 cm > Pasang"
+              },
+              {
+                "text": "05:00 > 77 cm > Pasang"
+              },
+              {
+                "text": "05:00 > 71 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang5",
+      "dialog_node": "node_10_1688400469225",
+      "previous_sibling": "node_5_1688400460103"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang11",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "11:00 > 148 cm > Pasang"
+              },
+              {
+                "text": "11:00 > 150 cm > Pasang"
+              },
+              {
+                "text": "11:00 > 146 cm > Pasang"
+              },
+              {
+                "text": "11:00 > 145 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang11",
+      "dialog_node": "node_10_1688400561447",
+      "previous_sibling": "node_5_1688400547240"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang13",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "13:00 > 133 cm > Pasang"
+              },
+              {
+                "text": "13:00 > 130 cm > Pasang"
+              },
+              {
+                "text": "13:00 > 131 cm > Pasang"
+              },
+              {
+                "text": "13:00 > 128 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang13",
+      "dialog_node": "node_10_1688400576575",
+      "previous_sibling": "node_10_1688400561447"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang17",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "17:00 > 81 cm > Pasang"
+              },
+              {
+                "text": "17:00 > 79 cm > Pasang"
+              },
+              {
+                "text": "17:00 > 83 cm > Pasang"
+              },
+              {
+                "text": "17:00 > 78 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang17",
+      "dialog_node": "node_10_1688400594527",
+      "previous_sibling": "node_9_1688400585063"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang7",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "07:00 > 94 cm > Pasang"
+              },
+              {
+                "text": "07:00 > 91 cm > Pasang"
+              },
+              {
+                "text": "07:00 > 96 cm > Pasang"
+              },
+              {
+                "text": "07:00 > 90 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang7",
+      "dialog_node": "node_1_1688400488767",
+      "previous_sibling": "node_10_1688400469225"
+    },
+    {
+      "type": "standard",
+      "title": "Kuat Arus",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Kuat arus air laut saat ini sebesar 68 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 189 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 102 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 64 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 90 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 71 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 84 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 57 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 37 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 27 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 6 m/s"
+              },
+              {
+                "text": "Kuat arus air laut saat ini sebesar 0 m/s"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Kuat_Arus",
+      "dialog_node": "node_2_1688400710975",
+      "previous_sibling": "node_7_1688400698351"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang Surut",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Waktu\t\tKedalaman (cm)\tStatus\n\n01:00\t                 24\t                       Surut\n03:00\t                 47\t                       Surut\n05:00\t                 75\t                       Pasang\n07:00\t                 94\t                       Pasang\n09:00\t                 12\t                       Pasang\n11:00\t                 148\t               Pasang\n13:00\t                 133\t               Pasang\n15:00\t                 110\t               Pasang\n17:00\t                 81\t                       Pasang\n19:00\t                 69\t                       Pasang\n21:00\t                 41\t                       Surut\n23:00\t                 19\t                       Surut\n"
+              },
+              {
+                "text": "Waktu\t\tKedalaman (cm)\tStatus\n\n01:00\t                21\t                       Surut\n03:00\t                45\t                       Surut\n05:00\t                73\t                       Pasang\n07:00\t                91\t                       Pasang\n09:00\t                111\t               Pasang\n11:00\t                150\t               Pasang\n13:00\t                130\t               Pasang\n15:00\t                108\t               Pasang\n17:00\t                79\t                       Pasang\n19:00\t                67\t                       Pasang\n21:00\t                38\t                       Surut\n23:00\t                17\t                       Surut\n"
+              },
+              {
+                "text": "Waktu\t\tKedalaman (cm)\tStatus\n\n01:00\t                 29\t                       Surut\n03:00\t                 49\t                       Surut\n05:00\t                 77\t                       Pasang\n07:00\t                 96\t                       Pasang\n09:00\t                 114\t               Pasang\n11:00\t                 146\t               Pasang\n13:00\t                 131\t               Pasang\n15:00\t                 112\t               Pasang\n17:00\t                 83\t                       Pasang\n19:00\t                 71\t                       Pasang\n21:00\t                 43\t                       Surut\n23:00\t                 21\t                       Surut\n"
+              },
+              {
+                "text": "Waktu\t\tKedalaman (cm)\tStatus\n\n01:00\t                36\t                       Surut\n03:00\t                43\t                       Surut\n05:00\t                71\t                       Pasang\n07:00\t                90\t                       Pasang\n09:00\t                109\t               Pasang\n11:00\t                145\t               Pasang\n13:00\t                128\t               Pasang\n15:00\t                107\t               Pasang\n17:00\t                78\t                       Pasang\n19:00\t                66\t                       Pasang\n21:00\t                39\t                       Surut\n23:00\t                18\t                       Surut\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang_Surut",
+      "dialog_node": "node_3_1688400364672",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Arah Arus",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Arah arus saat ini 90 Derajat mengarah ke Timur"
+              },
+              {
+                "text": "Arah arus saat ini 270 Derajat mengarah ke Barat"
+              },
+              {
+                "text": "Arah arus saat ini 180 Derajat mengarah ke Selatan"
+              },
+              {
+                "text": "Arah arus saat ini 0 Derajat mengarah ke Utara"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Arah_Arus",
+      "dialog_node": "node_4_1688400720023",
+      "previous_sibling": "node_2_1688400710975"
+    },
+    {
+      "type": "standard",
+      "title": "Surut3",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "03:00 > 47 cm > Surut"
+              },
+              {
+                "text": "03:00 > 45 cm > Surut"
+              },
+              {
+                "text": "03:00 > 49 cm > Surut"
+              },
+              {
+                "text": "03:00 > 43 cm > Surut"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Surut3",
+      "dialog_node": "node_5_1688400460103",
+      "previous_sibling": "node_7_1688400431648"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang9",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "09:00 > 112 cm > Pasang"
+              },
+              {
+                "text": "09:00 > 111 cm > Pasang"
+              },
+              {
+                "text": "09:00 > 114 cm > Pasang"
+              },
+              {
+                "text": "09:00 > 109 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang9",
+      "dialog_node": "node_5_1688400547240",
+      "previous_sibling": "node_1_1688400488767"
+    },
+    {
+      "type": "standard",
+      "title": "Surut21",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "21:00 > 41 cm > Surut"
+              },
+              {
+                "text": "21:00 > 38 cm > Surut"
+              },
+              {
+                "text": "21:00 > 43 cm > Surut"
+              },
+              {
+                "text": "21:00 > 39 cm > Surut"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Surut21",
+      "dialog_node": "node_5_1688400688287",
+      "previous_sibling": "node_6_1688400604951"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang19",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "19:00 > 69 cm > Pasang"
+              },
+              {
+                "text": "19:00 > 67 cm > Pasang"
+              },
+              {
+                "text": "19:00 > 71 cm > Pasang"
+              },
+              {
+                "text": "19:00 > 66 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_6_1688400604951",
+      "previous_sibling": "node_10_1688400594527"
+    },
+    {
+      "type": "standard",
+      "title": "Surut1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "01:00 > 24 cm > Surut"
+              },
+              {
+                "text": "01:00 > 21 cm > Surut"
+              },
+              {
+                "text": "01:00 > 29 cm > Surut"
+              },
+              {
+                "text": "01:00 > 36 cm > Surut"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Surut1",
+      "dialog_node": "node_7_1688400431648",
+      "previous_sibling": "node_3_1688400364672"
+    },
+    {
+      "type": "standard",
+      "title": "Surut23",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "23:00 > 19 cm > Surut"
+              },
+              {
+                "text": "23:00 > 17 cm > Surut"
+              },
+              {
+                "text": "23:00 > 21 cm > Surut"
+              },
+              {
+                "text": "23:00 > 18 cm > Surut"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Surut23",
+      "dialog_node": "node_7_1688400698351",
+      "previous_sibling": "node_5_1688400688287"
+    },
+    {
+      "type": "standard",
+      "title": "Pasang15",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "15:00 > 112 cm > Pasang"
+              },
+              {
+                "text": "15:00 > 107 cm > Pasang"
+              },
+              {
+                "text": "15:00 > 110 cm > Pasang"
+              },
+              {
+                "text": "15:00 > 108 cm > Pasang"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Pasang15",
+      "dialog_node": "node_9_1688400585063",
+      "previous_sibling": "node_10_1688400576575"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Selamat datang di WaveFlow"
+              },
+              {
+                "text": "Apa yang ingin anda tanyakan?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "",
+  "name": "WaveFlow-dialog"
+}
